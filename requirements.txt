@@ -1,0 +1,5 @@
+streamlit~=1.36.0
+requests~=2.31.0
+bs4~=0.0.2
+beautifulsoup4~=4.12.3
+fake_useragent
